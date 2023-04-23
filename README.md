@@ -6,6 +6,27 @@ The goal of our project is to promote sustainability and encourage individuals t
 
 Overall, our carbon footprint calculator addresses the problem of lack of awareness and knowledge about personal carbon emissions and provides a solution for taking meaningful action to reduce them.
 
+ ___________________________
+|                           |
+|  Carbon Footprint Calculator |
+|___________________________|
+|                           |
+|   Travel Distance         |
+|  [        ]  [miles/km]   |
+|                           |
+|   Energy Usage            |
+|  [        ]  [kWh]        |
+|                           |
+|   Food Consumption        |
+|  [        ]  [calories]   |
+|                           |
+|   Waste Generation        |
+|  [        ]  [lbs/kg]     |
+|                           |
+|___________________________|
+|                           |
+|    Calculate Button       |
+|___________________________|
 
 
 # Carbon Footprint Calculator
