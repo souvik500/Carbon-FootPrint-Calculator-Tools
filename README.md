@@ -6,27 +6,20 @@ The goal of our project is to promote sustainability and encourage individuals t
 
 Overall, our carbon footprint calculator addresses the problem of lack of awareness and knowledge about personal carbon emissions and provides a solution for taking meaningful action to reduce them.
 
- ___________________________
-|                           |
-|  Carbon Footprint Calculator |
-|___________________________|
-|                           |
-|   Travel Distance         |
-|  [        ]  [miles/km]   |
-|                           |
-|   Energy Usage            |
-|  [        ]  [kWh]        |
-|                           |
-|   Food Consumption        |
-|  [        ]  [calories]   |
-|                           |
-|   Waste Generation        |
-|  [        ]  [lbs/kg]     |
-|                           |
-|___________________________|
-|                           |
-|    Calculate Button       |
-|___________________________|
+Users can input their data by filling in the relevant fields, such as travel distance, energy usage, food consumption, and waste generation. Users can select their preferred unit of measurement for each category by choosing from a dropdown menu next to the input field.
+
+Once all the inputs have been provided, the user can click on the "Calculate" button to initiate the calculation of their carbon footprint. The calculator uses the provided inputs and industry-standard formulas to calculate the user's carbon footprint.
+
+After the calculation is complete, the user will receive their carbon footprint result, broken down by category. Additionally, the user will receive personalized recommendations on how to reduce their carbon footprint based on their inputs.
+
+Here is an example screenshot of the user interface of our carbon footprint calculator:
+
+Carbon Footprint Calculator Screenshot
+
+![image](https://user-images.githubusercontent.com/120314952/233863337-8d469c77-ca15-41f7-aea7-e9e18cbbfc9a.png)
+
+
+Overall, our carbon footprint calculator is designed to be easy to use and visually appealing, while providing accurate calculations and actionable recommendations for reducing carbon emissions.
 
 
 # Carbon Footprint Calculator
